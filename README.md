@@ -13,7 +13,11 @@ Welcome to the Hi-Low card game! a game of chance!, There are a few simple rules
 Check to make sure you have python 3.8.0 or later version installed. Open a terminal
 and navigate to the folder or use a filepath when running the game. once ready run the following command
 ```
-python3 hilo or python3 \filepath\hilo
+python3 hilo
+```
+or
+```
+python3 \filepath\hilo
 ```
 
 ## file Structure
