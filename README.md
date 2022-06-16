@@ -1,5 +1,5 @@
 # CSE210_hilo game
-Welcome to the _Hi-Low_ card game! a game of chance!, There are a few simple rules:
+Welcome to the **_Hi-Low_** card game! a game of chance!, There are a few simple rules:
 
 1. You start out with **300** points
 2. the game start with a randomly drawn card [1-13]
