@@ -36,4 +36,5 @@ root                    (Project root folder)
 
 ## Authors
 * Caleb Malcarne (mal18002@byui.edu)
+* Cameron Christensen (cchris20002@byui.edu)
 * intert your info here please  
